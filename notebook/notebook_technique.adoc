@@ -1,0 +1,164 @@
+//:doctitle:
+//:authors:
+:thanks: H. B., G. I.
+:revdate: Mar. 30, 2019
+
+ifndef::backend-pdf[:nofooter:]
+:last-update-label!:
+
+:note-en:        .
+:note-hu:        fuzet
+:note-ro:        caiet
+:note-en-pdf-a4: downloads/notebook_technique-a4.pdf
+:note-en-pdf-m:  downloads/notebook_technique-m.pdf
+:note-hu-pdf-a4: downloads/fuzettechnika-a4.pdf
+:note-hu-pdf-m:  downloads/fuzettechnika-m.pdf
+:note-ro-pdf-a4: downloads/tehnica-caietului-a4.pdf
+:note-ro-pdf-m:  downloads/tehnica-caietului-m.pdf
+:empire-state-b: https://en.wikipedia.org/wiki/Empire_State_Building
+
+ifndef::backend-pdf[:toc: macro]
+:toc-title: Contents
+:toc-levels: 3
+
+= Awakening the Soul with the Notebook technique
+
+[quote, Elisabeth Haich]
+[small]_"In everything that I love, I love myself. And suddenly I realize that everything I have always believed I didn't love was what I had not yet recognized within myself!"_
+
+ifndef::backend-pdf[]
+Download: link:{note-en-pdf-a4}[*pdf (A4)*], link:{note-en-pdf-m}[pdf (mobil)]
+
+link:{note-hu}[*Magyar* változat] --
+Letöltés: link:{note-hu-pdf-a4}[*pdf (A4)*], link:{note-hu-pdf-m}[pdf (mobil)]
+
+//link:{note-ro}[Versiune *Română*] --
+//Descărcare: link:{note-ro-pdf-a4}[*pdf (A4)*], link:{note-ro-pdf-m}[pdf (mobil)]
+
+toc::[]
+endif::[]
+
+== The technique
+
+According to our experience this is the easiest and most effective method for awakening the soul, which can be achieved by everybody. It is based on the ubiquitous highest spiritual state: Love.
+
+==== 1. Subject choice
+
+Let us choose something we really *love*: a person, an object, an event, a memory, a desire, etc. This can be e.g. a whole movie, or just some part of it, a character from it, anything, it just needs to be in front of us in real life, as a picture, or we need to have an image of it in our head. The more this subject is related to us, i.e. the more we love it, the better.
+
+==== 2. Physical description
+
+We should *write down* every *physical* aspect of it, that we specifically *love*, that matters to us (physical properties, e.g. how does it look like, what is it used for, etc.). We should write down everything we can think of, for it may be that what we consider embarrassing, or certainly not characteristic to us, will reveal to us what has been hidden in the deepest layers of our souls so far.
+
+* We should write down only those parts that we really love.
+* Our description should be as specific and as detailed as possible.
+* We may want to leave a few blank lines at the end of the description, in case new important details would come to our mind a bit later. (Would this supplement be longer, we should postpone it to the next time we write about the same subject.)
+
+==== 3. States
+
+Step by step we should *read* this (external) physical description, visualize its image (in our head), enter completely into the situation, and we should observe the positive states we remark in it, the positive states that appear in us (e.g. beauty, goodness, strength, etc.).
+
+* The physical description will help us *understand the states* more deeply, thus increasing our *consciousness*. (In the image evoked by a given section of the description we will "see" this awakened state: e.g. the strength in a Ferrari engine.)
+* We should not force it, we should just listen to the words and thoughts that arise: pushing it will just ruin (stop/suppress) the process.
+* If necessary, we should go back and reread the given section of the physical description as many times as we have to in order to strengthen the state.
+* It is very important to properly *intensify the states*: when we begin to feel a state, we should try to deepen it in ourselves.
+ ** We should feel the state both energetically and as a thought (in our head) at the same time. If someone is new to spirituality, he/she might not really feel anything energetically at first; but this will change in a few days or weeks at most.
+* We should allow the given state to (fully) fill ourselves and then just observe its effects, (we should not interrupt it) we should feel and "live" it as long as it lasts, and move on to the next state only afterwards -- we have managed to properly intensify a state only if it lasted for minutes.
+ ** We should forget all negative states (that we are weak, worthless, ugly, stupid, etc.).
+ ** *"I am nobody, I don't want anything, I don't know anything, I don't care about anything."* -- this emptiness, this thought-free (no thought / "no-mindness") state, this state of void is of key importance for the technique. We have to be completely detached of everything we know about, of everything we have identified ourselves with. Only through the openness created in this way will we be able to recognize and truly experience the states emerging in the technique.
+ ** This should be however a *curious openness* at the same time, just like a small *child* loves to get to know and discover the world, just like a small child would want to know who he is.
+  ** Feel free to spend time with a state: the bottom line is to get to the point where we feel and know for sure, that we love the subject we started to write about really because *this state is in it*.
+* Finally, we only write down the states that we are able to deepen this way, as in reality only these are important to us.
+
+==== 4. Summary
+
+In the end, select (e.g. underline) the *most important* 5, then 3, then 1 state(s) for us.
+
+==== 5. Notes
+
+* When we can not finish a topic, we can continue it next time.
+* It doesn't matter what was the day before, an hour or even one minute ago. Only the states we are experiencing now, and how intensely do we feel them now, are important. (Just as in case of an actor: he/she has to relive the play with each performance.)
+* The main point of the notebook technique is not the listing of states, but *to fill ourselves* with them.
+We should want to, we should desire to live the states as deeply as possible.
+
+//=== How does it work
+
+=== Effects
+
+We always and in everything love what there is already present in us. From this perspective, everything is a mirror. By reliving over and over again the states that are important to us:
+
+. we are filling ourselves with the states of ourselves
+. we are filling our aura with the extremely positive energy of the states (this is why it's so important to write only about positive things and to concentrate only on the positive states)
+. we will become increasingly aware that we are these states
+. we start to clean our aura very quickly from the negative states (at increasingly deeper levels), and then also from all of our habits
+. we are awakening and stabilizing in us each state at increasingly deeper levels
+. we are starting to return more and more to ourselves
+. we recognize and identify ourselves with our Great Cosmic Power
+. we reveal our Souls
+
+=== Mistakes
+
+. The biggest mistake is not living the states, if we are doing the technique from coercion, some sense of duty, or attachment. This technique is effective only, if we enjoy it, if we are eager to start it, to dive into the depths of our souls.
+. When the mind, the real hemisphere switches on.
+. We should not yarn or waffle about the states, or we won't be able to activate the center of our souls (and we will not be able to awaken our souls). We should define and identify the states: this is why we need to know as precisely and as detailed what we love, as possible. In a superficial (unspecified) phrasing many other states may be also present.
+. It is not a mistake to occasionally repeat the states.
+
+Two main aspects will arise along with the child state. These are the yin, yang, and the child state above them, including both of them at the same time. In the end, we will be so familiar with our characteristic states, that we will be able to formulate our true being in a single word or phrase.
+
+== Deepening/intensification of the states
+
+The point of intensification is to realize and be aware that these states are *also present in us*.
+
+* Each of us will have *different* physical and internal feelings associated with the intensification:
+ ** the feelings may change over time
+ ** on a physical level usually it is accompanied by a warmth sensation
+ ** we shouldn't force it, we should just let it happen
+* *When* a state is *not intense enough* then
+ ** it may not be that important to us regarding the given subject, or
+ ** we don't truly understand this state yet (without understanding it, it will never be intense)
+* We can intensify *similar states* (synonyms/refinements) together; in the beginning, this may even help us with the tuning. In time, however, it will settle down to the one that is most important and intense to us regarding the given subject. (e.g. fineness, softness, lightness)
+* The ultimate question is, what is *coming from our Souls*: if we don't feel anything yet, then we should just move on: the technique works anyway.
+
+=== Methods
+
+None of the presented methods is better than the other, and over time, we won't even need such steps as we will be able to feel within seconds the degree to which a state is present in us.
+
+*1.* Let us imagine a *well* and "sink" the given state further and further into it
+
+*2.* Let us imagine a *squirrel wheel* and "twirl" the given state in it
+
+*3.* Let us imagine as the given state spreads over our *subtle bodies* from layer to layer (even as an addition to the previous two methods):
+
+. We should allow the state to intensify within us (in our energetic body, but we may feel it even physically)
+. When the state has been sufficiently intensified, let us imagine as it *spreads* to our astral, then to our causal bodies, and ultimately even further, to our souls.
+. We should mark to which extent the given state is present *in our soul*, how much does it resonate with us (how important is it to us): if we feel it as it is our own (it is present in us) then this external energy will trigger in a short time a *response* (give it some time).
+
+////
+2. [...] -- TODO google translate only
+ ** (The extension to the next subtle body can also be performed at the beginning by rewinding an imaginary switch.)
+ ** For each spread, we need to have some "*jump*", "*dimensional change*" that something has changed.
+ ** This jump can be made between different subtle bodies, even through a chakra.
+[...]
+4. Starting with our soul, a much (or even orderly) stronger energy will come back with the same state, flooding all of our subtle bodies (causal, astral, energetic, and also having a physical effect).
+ ** We feel that it comes from "somewhere else," as if we had created it ourselves
+ ** Feel the state: eg. as if it were a continuous, intersecting and intersecting space toward the physical plane.
+ ** The fact that we can create states, that is to say, that we can bring them and put them into any other situation (eg freedom, understanding, etc.), is the most important role to keep ourselves alone in every situation.
+////
+
+== Examples
+
+==== link:{empire-state-b}[Empire State Building]
+
+Tall, it is rising above all other skyscrapers, it's staggered, rising upwards gradually, with two dominant salient parts. It's well-designed, with a stable base, and dominant lines, it's like a symbol, like an emblem. It's very compact, its right decorations are in the right place. It has kept the highest skyscraper in the world title for the longest time. Its shape resembles a rocket, especially the shape of the peak antenna. One of the most beautiful examples of the human workmanship. It stands the test of time for 83 years now.
+
+(states:) _glory, self-confidence, boldness, all-superiority, strength, power, depth, mysticism, beauty, attention, center, fascination, admiration, originality, creativity, superiority, present, security, glitter, naturalness, endurance, inner strength, fulfillment, perfection, accuracy, freshness, replenishment, energized, cheerfulness, vividness, sobriety, wisdom, imperturbability, orderliness, security, satisfaction, love, happiness, joy, existence, sublimeness, continuity, creation, enthusiasm, togetherness, opportunity, Self_
+
+==== Green lawn
+
+The tiny grasses are forming a thick-soft-velvety carpet of vibrant dark green color. They are leaning softly and easily in the wind. Their tenderness and verdure glitter in the sunshine. It has a smooth-soft-silky touch, and fresh-naturally bitter smell.
+
+(states:) _mysticism, brightness, spirit elevation, holiness, sublimeness, unity, continuous flowing light-energy-pleasure, complete selfrendition, perfection, fulfillment, happiness, expansion, immateriality, weightlessness, limitlessness, completeness, mightiness, harmony, beauty, magnificence, glitter, elegance, diversity, like a fairy-tale, enchanting, miraculousness, well-being, abundance, satisfaction, pleasure, carefree enjoyment of existence, liberation, floating, soaring, dissolving, carelessness, freedom, lightness, playfulness, cheerfulness, buoyancy, exuberant pep, inexhaustible vitality, neatness, verdure, youth, health, vigorous, freshness, tirelessness, robustness, nobility, simplicity, stateliness, self-confidence, purposefulness, stillness, unwavering, purity, serenity, peace, silence, patience, wisdom, consciousness, sobriety, objectivity, balance, stability, openness, straightness, self-realization, self-undertaking, prettiness, flexibility, softness, sensuality, originality, specialty, fertility, passion, irresistible attraction, full of love_
+
+'''
+
+Thanks: _{thanks}_

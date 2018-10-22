@@ -1,0 +1,164 @@
+//:doctitle:
+//:authors:
+:thanks: B. H., I. G.
+:revdate: 2019. marc. 30.
+
+ifndef::backend-pdf[:nofooter:]
+:last-update-label!:
+
+:note-en:        .
+:note-hu-pdf-a4: downloads/fuzettechnika-a4.pdf
+:note-hu-pdf-m:  downloads/fuzettechnika-m.pdf
+:empire-state-b: https://en.wikipedia.org/wiki/Empire_State_Building
+
+ifndef::backend-pdf[:toc: macro]
+:toc-title: Tartalom
+:toc-levels: 3
+
+= Lélekfeltárás Füzettechnikával
+
+[quote, Haich Erzsébet]
+[small]_"Mindenben, amit szeretek, magamat szeretem, s rájövök, csak arról hittem, hogy nem szeretem, amit még nem ismertem fel magamban!"_
+
+ifndef::backend-pdf[]
+Letöltés: link:{note-hu-pdf-a4}[*pdf (A4)*], link:{note-hu-pdf-m}[pdf (mobil)]
+-- link:{note-en}[*Home* (English version)]
+
+toc::[]
+endif::[]
+
+== A technika
+
+Tapasztalataink szerint ez a legegyszerűbb és leghatékonyabb módszer a lélekébredés elérésére, mely bárki számára lehetséges. Alapja pedig a mindenhol jelenlevő legmagasabb rendű állapot: a Szeretet.
+
+==== 1. Témaválasztás
+
+Válasszunk egy témát, amit nagyon *szeretünk*: egy személyt, egy tárgyat, egy eseményt, egy emléket, egy vágyálmot stb.. Ez lehet pl. egy egész film, vagy csak egy részlet, az egyik szereplő, bármi, csak legyen előttünk élőben, kép formájában, vagy legyen róla "képünk" a fejünkben. Minél közelebb áll hozzánk, vagyis minél jobban szeretjük, annál jobb.
+
+==== 2. Fizikai leírás
+
+*Írjuk le* mindazt, amit konkrétan, *fizikailag szeretünk benne*, ami számunkra fontos (fizikai tulajdonságok, pl. hogy néz ki, mire használják stb.). Írjunk le mindent, ami csak az eszünkbe jut, ugyanis lehet, hogy pont az, amiről azt gondoljuk, hogy kínos, zavarba ejtő, vagy hogy biztosan nem jellemző ránk, fogja feltárni számunkra azt, ami mindezidáig a lelkünk legmélyén volt eldugva.
+
+* Csak azokat a részeket írjuk le, melyeket tényleg szeretünk is benne.
+* A leírásunk legyen minél konkrétabb, minél részletesebb.
+* Érdemes lehet kihagyni pár sort a leírás végén, ha esetleg később jutna eszünkbe még néhány fontos részlet. (Amennyiben ez a kiegészítés hosszabb hangvételű lenne, halasszuk azt el inkább egy következő alkalomra, amikor újra ugyanerről a témáról írunk majd.)
+
+==== 3. Állapotok
+
+Lépésről lépésre *olvassuk át* ezt a (külső) fizikai leírást, lássuk magunkban (fejben) a képét, éljük bele magunkat teljesen az adott helyzetbe, és figyeljük meg, hogy milyen pozitív állapotokat látunk meg benne, milyen pozitív állapotok ébrednek fel bennünk a hatására (pl. szépség, jóság, erő stb.).
+
+* A fizikai leírás segít mélyebben *megérteni az állapotokat*, ezáltal fokozza a **tudatosság**ot. (Az adott szövegrész által bennünk megidézett képben fogjuk "látni" a felébredt állapotot: pl. egy Ferrari motorjában az erőt.)
+* Ne erőltessük, csak figyeljünk, és hagyjuk, hogy jöjjenek a szavak és gondolatok: az akarással legfeljebb elrontani (megállítani/elfojtani) tudjuk.
+* Ha szükséges, menet közben térjünk vissza akár többször is a fizikai leírásrészlethez, hogy megerősítsük az állapotot.
+* Fontos az állapotok megfelelő **elmélyítés**e: amikor elkezdünk érezni egy állapotot, próbáljuk meg felfokozni azt magunkban.
+ ** Az állapotot egyszerre kell érezzük energetikailag és gondolati szinten (fejben) is. Ha valaki csak most kezd spiritualitással foglalkozni, akkor az elején valószínűleg még nem fog érezni energetikailag szinte semmit; de ez akár napok, legrosszabb esetben pedig hetek alatt meg fog változni.
+* Engedjük, hogy (teljesen) átjárjon minket az adott állapot, majd csak figyeljük a hatását, (ne szakítsuk meg) éljük meg végig, amíg tart, és csak utána menjünk tovább a következő állapotra -- akkor sikerült igazán elmélyíteni, ha ez perceket jelent.
+ ** Felejtsünk el minden negatív állapotot (hogy gyengék, kevesek, csúnyák, buták stb. vagyunk).
+ ** *"Nem vagyok senki, nem akarok semmit, nem tudok semmit, nem érdekel semmi."* -- ez az üres, gondolat nélküli, "űr" állapot kulcsfontosságú a technika végrehajtása során. Teljesen el kell különülnünk mindentől, amit tudunk, amivel mindeddig azonosítottuk magunkat. Csakis az így megteremtett nyitottsággal leszünk képesek felismerni és valóban átélni a technika során felbukkanó állapotokat.
+ ** Legyen ez ugyanakkor egy *kíváncsi nyitottság*, ahogyan egy kis**gyerek** szereti megismerni, felfedezni a világot, mintha csak egy kisgyerek szeretné megtudni, hogy ki is ő.
+ ** Nyugodtan időzzünk el 1-1 állapot mellett: a lényeg, hogy eljussunk addig, hogy biztosan erezzük, és tudjuk, hogy igen, tényleg ezért szeretjük azt a témát, amiről írni kezdtünk, mert *megvan benne ez az állapot*.
+* Végül csak azokat az állapotokat írjuk le, melyeket sikerül így elmélyíteni, mert valójában csak azok fontosak számunkra.
+
+==== 4. Összegzés
+
+A végén válasszuk ki a számunkra *legfontosabb* 5, majd 3, majd egyetlen 1 állapotot.
+
+==== 5. Megjegyzések
+
+* Ha nem sikerül befejezni egy témát, nyugodtan lehet folytatni a következő alkalommal.
+* Nem számít, hogy mi volt előző nap, egy órája, vagy az előző percben. Csak az, hogy most milyen állapotokat érzünk, és hogy most mennyire mélyek ezek az állapotok. (Akár egy színész esetén: minden előadáson át kell élnie a darabot.)
+* A füzettechnika lényege nem az állapotok leírása, hanem az azokkal való *feltöltődés*.
+Akarjuk, vágyjunk rá, hogy a lehető legintenzívebben éljük át az állapotokat.
+
+////
+=== Működés
+
+//TODO Huba: a teremtes torvenye: "a 3 vilag"
+
+Amíg fel nem tárjuk az Önvalónkat, nem tudunk mást szeretni, mint a saját Kozmikus Erőnket és annak a ránk leginkább jellemző aspektusait.
+Minden ember szeret valamit vagy valakit, és amit szeret, azt nem véletlenül szereti. Ugyanis abban a valamiben/valakiben, ahová a szeretet irányul állapot formájában jelen van az illető Kozmikus Ereje.
+A teremtés törvénye alapján tudjuk, hogy minden alapvetően állapot. Ez azt jelenti, hogy a saját Kozmikus Erőnk, illetve annak különböző aspektusainak az állapota rajtunk kívül még számtalan más formában is megtalálható a világon.
+Ebből pedig az következik, hogy ha valamit/valakit szeretünk, akkor az a valami/valaki szintén abból az állapotból jött létre, ami a mi Kozmikus Erőnk (vagy annak egyik jól behatárolható aspektusából). Máskülönben nem szeretnénk.
+
+A fizikai leírás által alkotott kép az Asztál világ, míg az állapotok a Kauzális sík (Vijnanamaya Kosha) képviselői.
+////
+
+=== Hatásai
+
+Mindig és mindenben azt szeretjük, ami bennünk is megvan. Ebből a szempontból minden tükör. Azáltal, hogy újra és újra belemegyünk a számunkra fontos állapotokba:
+
+. feltöltjük magunkat önmagunk állapotaival
+. feltöltjük az auránkat az állapotok rendkívül pozitív energiájával (ezért fontos, hogy csakis pozitív dolgokról írjunk, és csakis a pozitív állapotokra figyeljünk)
+. egyre jobban tudatosítjuk magunkban, hogy mi ezek az állapotok vagyunk
+. rendkívül gyorsan elkezdjük megtisztítani az auránkat a negatív állapotoktól (egyre mélyebb és mélyebb szinteket érintve), majd az összes szokástól is
+. felébresztjük majd egyre mélyebb és mélyebb szinten stabilizáljuk magunkban az egyes állapotokat
+. egyre inkább kezdünk visszatérni önmagunkhoz
+. felismerjük és azonosulunk a Kozmikus Erőnkkel
+. feltárjuk a Lelkünket
+
+=== Hibák
+
+. A legnagyobb hiba, ha nem éljük át az állapotokat, ha kényszerből, kötelességtudatból, ragaszkodásból végezzük a technikát. Ez a technika akkor hatékony, ha élvezzük, ha alig várjuk, hogy nekikezdjünk, hogy a lelkünk mélyére hatoljunk.
+. Ha bekapcsol az elme, a reál agyfélteke.
+. Az állapotoknál ne meséljünk, ne beszéljünk mellé, különben nem tudjuk aktiválni a lélek központját (és nem fogjuk tudni feltárni a lelkünket). Fogalmazzuk meg, azonosítsuk be az állapotokat: ezért kell minél konkrétabban, minél részletesebben ismernünk azt, amit szeretünk. Egy felszínes (részleteket mellőző) megfogalmazásban sok más állapotot is jelen lehet.
+. Nem hiba, ha időnként megismétlődnek az állapotok.
+
+Két fő aspektus fog kidomborodni, illetve egy gyerek állapot. Ezek a yin, yang és a felettük álló, mindkettőt magába foglaló gyermek állapot. A végén annyira fel fogjuk ismerni a jellegzetes állapotainkat, hogy egyetlen szóban esetleg mondatban meg tudjuk majd fogalmazni igazi lényünket.
+
+== Állapotok elmélyítése
+
+Az elmélyítés lényege, hogy felismerjük, és tudatosuljon, hogy *bennünk is ott vannak* ezek az állapotok.
+
+* Mindenkinél *más és más* az elmélyüléshez társuló pontos érzés mind fizikai szinten, mind pedig belsőleg:
+ ** az érzés idővel változhat
+ ** fizikai szinten többnyire társul mellé egy melegség érzet is
+ ** semmit se erőltessünk, csak hagyjuk
+* *Ha* egy állapot *nem elég mély*, akkor
+ ** lehet, hogy az adott témában nem olyan fontos (számunkra), vagy
+ ** még nem értjük igazán az állapotot (enélkül nem lesz mély soha)
+* *Hasonló állapotokat* (szinonimákat/finomításokat) lehet akár együtt mélyíteni; az elején ez még segíthet is a ráhangolódásban. Idővel azonban le fog majd tisztulni arra az egyre, ami az adott témában a legmélyebb számunkra. (pl. finomság, lágyság, könnyedség)
+* A végső kérdés végülis, hogy mi az, *ami Lélekből jön*: ha egyelőre még nem érzünk semmit, akkor menjünk tovább: a technika így is működik.
+
+=== Módszerek
+
+A bemutatott módszerek egyike sem jobb mint a másik, idővel ráadásul nem is lesz szükség ilyen lépésekre, mert pillanatok alatt érezni fogjuk, hogy milyen mértékben van meg bennünk egy állapot.
+
+*1.* Képzeljünk el egy **kut**at, és abban "vigyük" egyre lejjebb és lejjebb az adott állapotot.
+
+*2.* Képzeljünk el egy **mókuskerek**et, és azon "pörgessük" fel az adott állapotot.
+
+*3.* Képzeljünk el ahogyan a **szubtilis testeink**en rétegről rétegre haladva terjed szét az állapot (akár az előző két módszer kiegészítőjeként):
+
+. Hagyjuk, hogy az állapot felfokozódjon bennünk (az energetikai testünkben, de akár fizikailag is érezhetjük a felerősödést)
+. Amikor kellően felerősödött az állapot, képzeljük el, ahogyan *átterjed* az asztrál, majd a kauzális testünkre, és végül azon is túl egészen a lelkünkig.
+. Figyeljük meg, hogy mennyire van jelen az adott állapot a *lelkünkben*, mennyire rezonál velünk (mennyire fontos számunkra): ha magunkénak érezzük (ott van bennünk, a belsőnkben), akkor erre a külső energiára rövid időn belül ki fog alakulni egy *válaszreakció* (adjunk neki egy kis időt).
+
+////
+2. [...]
+ ** (A következő szubtilis testre való kiterjedést az elején akár egy képzeletbeli kapcsoló átbillentésével is elősegíthetjük.)
+ ** Minden kiterjedésnél éreznünk kell valamiféle "**ugrás**t", "**dimenzióváltás**t", hogy valami megváltozott.
+ ** Ez az ugrás a különböző szubtilis testek között történhet akár egy csakrán keresztül is.
+[...]
+4. A lelkünkből kiindulva egy sokkal (akár nagyságrendekkel) erősebb energia fog visszajönni ugyanezzel az állapottal, sorban árasztva el az összes szubtilis testünket (kauzális, asztrál, majd energetikai, és ugyanúgy lehet fizikai hatása is).
+ ** Érezzük, hogy "máshonnan" jön, mintha mi magunk teremtettük volna azt.
+ ** Érezzük végig az állapotot: pl. mintha egy folytonos, a belsőnkből induló és a fizikai sík felé táguló tér lenne.
+ ** Annak, hogy mi is meg tudjuk teremteni az állapotokat, vagyis, hogy elő tudjuk hozni, és rá tudjuk ültetni azokat bármilyen más helyzetre is (pl. a szabadságot, a megértést stb.), az a legnagyobb szerepe, hogy így tudunk önmagunk maradni minden helyzetben.
+////
+
+== Példák
+
+==== link:{empire-state-b}[Empire State Building]
+
+Magas, minden más felhőkarcoló fölé emelkedik, fokozatosan, lépcsőzetesen tör felfele, domináns a két kiemelkedő rész. Jól megtervezett, stabil alapja, domináns vonulatai vannak, olyan az egész, mint egy szimbólum, mint egy jelkép. Nagyon kompakt, megfelelő díszítései a megfelelő helyen vannak. Ez tartotta a leghosszabb ideig a világ legmagasabb felhőkarcolója címet. A formája egy rakétához hasonlít, főleg a csúcsantenna. Az emberi alkotások egyik legszebb példája. 83 éve dacol az idővel.
+
+(állapotok:) _dicsőség, magabiztosság, merészség, mindenek felettiség, erő, hatalom, mélység, misztika, szépség, figyelem, középpont, lenyűgözés, csodálat, eredetiség, kreativitás, felsőbbrendűség, jelen, biztonság, csillogás, természetesség, kitartás, belső erő, beteljesedés, tökéletesség, pontosság, frissesség, feltöltődés, energizáltság, vidámság, élénkség, józanság, bölcsesség, rendíthetetlenség, rendezettség, biztonság, megelégedettség, szeretet, boldogság, öröm, létezés, magasztosság, folytonosság, alkotás, teremtés, lelkesedés, összetartozás, lehetőség, Önvaló_
+
+==== Zöld gyep
+
+A sok apró kis fűszál vastag-puha-bársonyos szőnyeget alkot, élénk sötétzöld, lágyan-könnyedén hajladoznak a szélben. Zsengeségük-üdeségük fénylik a napsütésben. Simogató-lágy-selymes a tapintása, friss-természetesen kesernyés Illatú.
+
+(állapotok:) _misztika, fényesség, lélekemeltség, szentség, magasztosság, egység, folyamatosan áramló fény-energia-gyönyör, teljes önátadás, tökéletesség, beteljesedettség, boldogság, kiterjedés, testetlenség, súlytalanság, határtalanság, teljesség, hatalmasság, harmónia, szépség, pompa, ragyogás, elegancia, sokszínűség, meseszerűség, varázslatosság, csodálatosság, jólét, bőség, megelégedettség, gyönyör, a lét önfeledt élvezete, felszabadultság, lebegés, szárnyalás, feloldódottság, gondtalanság, szabadság, könnyedség, játékosság, vidámság, derűlátás, kicsattanó életkedv, kifogyhatatlan életerő, ápoltság, üdeség, fiatalság, egészség, lendületesség, frissesség, fáradhatatlanság, erőteljesség, nemesség, egyszerűség, méltóságteljesség, magabiztosság, céltudatosság, nyugalom, megingathatatlanság, tisztaság, derű, békesség, csendesség, türelem, bölcsesség, tudatosság, józanság, tárgyilagosság, kiegyensúlyozottság, stabilitás, nyitottság, egyenesség, önmegvalósítás, önfelvállalás, kecsesség, hajlékonyság, lágyság, puhaság, érzékiség, eredetiség, különlegesség, termékenység, szenvedély, ellenállhatatlan vonzás, szeretetteljesség állapota_
+
+'''
+
+Köszönet: _{thanks}_
