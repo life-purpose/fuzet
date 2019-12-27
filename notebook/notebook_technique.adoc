@@ -23,8 +23,12 @@ ifndef::backend-pdf[:toc: macro]
 
 = Awakening the Soul with the Notebook technique
 
+[.text-center]
+ifdef::authors[{authors} -]
+{revdate}
+
 [quote, Elisabeth Haich]
-[small]_"In everything that I love, I love myself. And suddenly I realize that everything I have always believed I didn't love was what I had not yet recognized within myself!"_
+_"In everything that I love, I love myself. And suddenly I realize that everything I have always believed I didn't love was what I had not yet recognized within myself!"_
 
 ifndef::backend-pdf[]
 Download: link:{note-en-pdf-a4}[*pdf (A4)*], link:{note-en-pdf-m}[pdf (mobil)]

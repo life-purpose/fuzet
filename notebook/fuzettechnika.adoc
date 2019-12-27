@@ -17,8 +17,12 @@ ifndef::backend-pdf[:toc: macro]
 
 = Lélekfeltárás Füzettechnikával
 
+[.text-center]
+ifdef::authors[{authors} -]
+{revdate}
+
 [quote, Haich Erzsébet]
-[small]_"Mindenben, amit szeretek, magamat szeretem, s rájövök, csak arról hittem, hogy nem szeretem, amit még nem ismertem fel magamban!"_
+_"Mindenben, amit szeretek, magamat szeretem, s rájövök, csak arról hittem, hogy nem szeretem, amit még nem ismertem fel magamban!"_
 
 ifndef::backend-pdf[]
 Letöltés: link:{note-hu-pdf-a4}[*pdf (A4)*], link:{note-hu-pdf-m}[pdf (mobil)]

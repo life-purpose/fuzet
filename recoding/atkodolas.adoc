@@ -17,6 +17,10 @@ ifndef::backend-pdf[:toc: macro]
 
 = Az átkódolás
 
+[.text-center]
+ifdef::authors[{authors} -]
+{revdate}
+
 ifndef::backend-pdf[]
 Letöltés: link:{rcod-hu-pdf-a4}[*pdf (A4)*], link:{rcod-hu-pdf-m}[pdf (mobil)]
 endif::[]

@@ -29,9 +29,9 @@ font:
 #      bold_italic: c:\Windows\Fonts\SourceCodePro-SemiboldIt.ttf
     # Noto Serif supports Latin, Latin-1 Supplement, Latin Extended-A, Greek, Cyrillic, Vietnamese & an assortment of symbols
     Noto Serif:
-      normal: notoserif-regular-subset.ttf
-      bold: notoserif-bold-subset.ttf
-      italic: notoserif-italic-subset.ttf
+      normal:      notoserif-regular-subset.ttf
+      bold:        notoserif-bold-subset.ttf
+      italic:      notoserif-italic-subset.ttf
       bold_italic: notoserif-bold_italic-subset.ttf
     # M+ 1mn supports ASCII and the circled numbers used for conums
     M+ 1mn:
@@ -42,31 +42,23 @@ font:
     # M+ 1p supports Latin, Latin-1 Supplement, Latin Extended, Greek, Cyrillic, Vietnamese, Japanese & an assortment of symbols
     # It also provides arrows for ->, <-, => and <= replacements in case these glyphs are missing from font
     M+ 1p Fallback:
-      normal: mplus1p-regular-fallback.ttf
-      bold: mplus1p-regular-fallback.ttf
-      italic: mplus1p-regular-fallback.ttf
+      normal:      mplus1p-regular-fallback.ttf
+      bold:        mplus1p-regular-fallback.ttf
+      italic:      mplus1p-regular-fallback.ttf
       bold_italic: mplus1p-regular-fallback.ttf
   fallbacks:
     - M+ 1p Fallback
 page:
-  size: A5
-  margin: [0.1in, 0.1in, 0.1in, 0.1in]
+  size: A4
 base:
   font_family: sans
-  font_size: 14
-  # correct line height for Noto Serif metrics
-  line_height_length: 15
 literal:
   font_family: mono
 heading:
-  h1_font_size: floor($base_font_size * 1.75)
-  h2_font_size: floor($base_font_size * 1.5)
+  h1_font_size: floor($base_font_size * 2.0)
+  h2_font_size: floor($base_font_size * 1.7)
   h3_font_size: floor($base_font_size * 1.35)
 lead:
   font_size: $base_font_size
 blockquote:
   font_size: $base_font_size
-footer:
-  height: 0
-  recto_right_content:
-  verso_left_content:
